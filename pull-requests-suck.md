@@ -11,3 +11,5 @@ Don't actually need agents to exercise triggers.
 Normal edits do not trigger pull requests.
 
 You can filter on VCS root to exclude pull requests: `+:<default>`
+
+But that branch filter on VCS root seems to only like `+:` filters, not negative ones...?
