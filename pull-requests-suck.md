@@ -7,3 +7,5 @@ I guess monitor default branch _and_ `refs/pull/*/head` is required on the VCS t
 I can exclude using `-:<default>` and that stops those yellow notication thingies (at least).
 
 Don't actually need agents to exercise triggers.
+
+Normal edits do not trigger pull requests.
