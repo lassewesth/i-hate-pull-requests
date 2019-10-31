@@ -11,3 +11,5 @@ Don't actually need agents to exercise triggers.
 Normal edits do not trigger pull requests.
 
 You can filter on VCS root to exclude pull requests: `+:<default>`
+
+VCS branch filter for pull requests _still_ not working!
