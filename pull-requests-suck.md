@@ -8,4 +8,6 @@ I can exclude using `-:<default>` and that stops those yellow notication thingie
 
 Don't actually need agents to exercise triggers.
 
-Normal edits do not trigger pull requests.
+Normal edits do not trigger pull request build.
+
+But PRs do!
