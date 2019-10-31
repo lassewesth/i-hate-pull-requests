@@ -9,3 +9,5 @@ I can exclude using `-:<default>` and that stops those yellow notication thingie
 Don't actually need agents to exercise triggers.
 
 Normal edits do not trigger pull requests.
+
+You can filter on VCS root to exclude pull requests: `+:<default>`
