@@ -31,3 +31,5 @@ Aight yes mate now for that extra stuff innit!?
 So that rule about `-:.` _might_ have stopped triggers? So now doing `+:. => devnull` which has same effect
 
 Just one more, to blow smoke through the pipes...
+
+Question: does foo pr cause bar build? (guessing yes)
