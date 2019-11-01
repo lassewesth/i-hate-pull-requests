@@ -27,3 +27,5 @@ Wait! Maybe a rule like `-:*`? Let's play!
 Ok it's actually `-:.` but who's counting...
 
 Aight yes mate now for that extra stuff innit!?
+
+So that rule about `-:.` _might_ have stopped triggers? So now doing `+:. => devnull` which has same effect
