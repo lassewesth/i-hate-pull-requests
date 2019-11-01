@@ -23,3 +23,5 @@ only tiny problem is, there are 2x VCS declarations in play:
 This is not a problem per se; I can't see a way around it; just have to manage the situation.
 
 Wait! Maybe a rule like `-:*`? Let's play!
+
+Ok it's actually `-:.` but who's counting...
