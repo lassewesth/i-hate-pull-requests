@@ -33,3 +33,5 @@ So that rule about `-:.` _might_ have stopped triggers? So now doing `+:. => dev
 Just one more, to blow smoke through the pipes...
 
 Question: does foo pr cause bar build? (guessing yes)
+
+Numbers for names won't work for filtering, can we do better?
