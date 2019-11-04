@@ -37,3 +37,5 @@ Question: does foo pr cause bar build? (guessing yes)
 Numbers for names won't work for filtering, can we do better?
 
 OK! Trying PR triggers using branch name prefix...
+
+Can we build a filter?
